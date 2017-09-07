@@ -4,9 +4,9 @@
     {
       "icon": {
         "paths": [
-          "M614.286 676.571c0 4.571-2.286 9.714-5.714 13.143l-28.571 28.571c-3.429 3.429-8 5.714-13.143 5.714-4.571 0-9.714-2.286-13.143-5.714l-224.571-224.571-224.571 224.571c-3.429 3.429-8.571 5.714-13.143 5.714s-9.714-2.286-13.143-5.714l-28.571-28.571c-3.429-3.429-5.714-8.571-5.714-13.143s2.286-9.714 5.714-13.143l266.286-266.286c3.429-3.429 8.571-5.714 13.143-5.714s9.714 2.286 13.143 5.714l266.286 266.286c3.429 3.429 5.714 8.571 5.714 13.143z"
+          "M1023.994 725.419c0 8.208-4.105 17.442-10.26 23.599l-51.302 51.302c-6.157 6.157-14.365 10.26-23.599 10.26-8.208 0-17.442-4.105-23.599-10.26l-403.237-403.237-403.237 403.237c-6.157 6.157-15.39 10.26-23.599 10.26s-17.442-4.105-23.599-10.26l-51.302-51.302c-6.157-6.157-10.26-15.39-10.26-23.599s4.105-17.442 10.26-23.599l478.141-478.141c6.157-6.157 15.39-10.26 23.599-10.26s17.442 4.105 23.599 10.26l478.141 478.141c6.157 6.157 10.26 15.39 10.26 23.599z"
         ],
-        "width": 658.2857142857142,
+        "width": 1023.9999999999999,
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
@@ -20,7 +20,7 @@
       "properties": {
         "name": "angle-up",
         "id": 235,
-        "order": 84,
+        "order": 88,
         "prevSize": 28,
         "code": 61702
       },
@@ -31,9 +31,9 @@
     {
       "icon": {
         "paths": [
-          "M614.286 420.571c0 4.571-2.286 9.714-5.714 13.143l-266.286 266.286c-3.429 3.429-8.571 5.714-13.143 5.714s-9.714-2.286-13.143-5.714l-266.286-266.286c-3.429-3.429-5.714-8.571-5.714-13.143s2.286-9.714 5.714-13.143l28.571-28.571c3.429-3.429 8-5.714 13.143-5.714 4.571 0 9.714 2.286 13.143 5.714l224.571 224.571 224.571-224.571c3.429-3.429 8.571-5.714 13.143-5.714s9.714 2.286 13.143 5.714l28.571 28.571c3.429 3.429 5.714 8.571 5.714 13.143z"
+          "M1024 298.58c0 8.208-4.105 17.442-10.26 23.599l-478.141 478.141c-6.157 6.157-15.39 10.26-23.599 10.26s-17.442-4.105-23.599-10.26l-478.141-478.141c-6.157-6.157-10.26-15.39-10.26-23.599s4.105-17.442 10.26-23.599l51.302-51.302c6.157-6.157 14.365-10.26 23.599-10.26 8.208 0 17.442 4.105 23.599 10.26l403.237 403.237 403.237-403.237c6.157-6.157 15.39-10.26 23.599-10.26s17.442 4.105 23.599 10.26l51.302 51.302c6.157 6.157 10.26 15.39 10.26 23.599z"
         ],
-        "width": 658.2857142857142,
+        "width": 1023.9999999999998,
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
@@ -619,7 +619,7 @@
         "order": 20,
         "id": 0,
         "name": "Search",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59648
       },
       "setIdx": 2,
@@ -648,7 +648,7 @@
         "order": 21,
         "id": 1,
         "name": "Accomodations",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59649
       },
       "setIdx": 2,
@@ -673,7 +673,7 @@
         "order": 22,
         "id": 2,
         "name": "Alert",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59650
       },
       "setIdx": 2,
@@ -702,7 +702,7 @@
         "order": 29,
         "id": 3,
         "name": "Bulldozer",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59651
       },
       "setIdx": 2,
@@ -735,7 +735,7 @@
         "order": 32,
         "id": 4,
         "name": "Calendar",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59652
       },
       "setIdx": 2,
@@ -762,7 +762,7 @@
         "order": 33,
         "id": 5,
         "name": "Cash",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59653
       },
       "setIdx": 2,
@@ -787,7 +787,7 @@
         "order": 36,
         "id": 6,
         "name": "Checkmark",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59654
       },
       "setIdx": 2,
@@ -816,7 +816,7 @@
         "order": 37,
         "id": 7,
         "name": "Crate",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59655
       },
       "setIdx": 2,
@@ -848,7 +848,7 @@
         "order": 40,
         "id": 8,
         "name": "Donation",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59656
       },
       "setIdx": 2,
@@ -875,7 +875,7 @@
         "order": 41,
         "id": 9,
         "name": "Earthquake",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59657
       },
       "setIdx": 2,
@@ -904,7 +904,7 @@
         "order": 44,
         "id": 10,
         "name": "EstateGiving",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59658
       },
       "setIdx": 2,
@@ -929,7 +929,7 @@
         "order": 45,
         "id": 11,
         "name": "FAQ",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59659
       },
       "setIdx": 2,
@@ -954,7 +954,7 @@
         "order": 48,
         "id": 12,
         "name": "Fire",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59660
       },
       "setIdx": 2,
@@ -980,7 +980,7 @@
         "order": 49,
         "id": 13,
         "name": "FirstAid",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59661
       },
       "setIdx": 2,
@@ -1009,7 +1009,7 @@
         "order": 23,
         "id": 14,
         "name": "Flood",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59662
       },
       "setIdx": 2,
@@ -1034,7 +1034,7 @@
         "order": 24,
         "id": 15,
         "name": "Globe",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59663
       },
       "setIdx": 2,
@@ -1060,7 +1060,7 @@
         "order": 25,
         "id": 16,
         "name": "Gloves",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59664
       },
       "setIdx": 2,
@@ -1087,7 +1087,7 @@
         "order": 30,
         "id": 17,
         "name": "HomeSaved",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59665
       },
       "setIdx": 2,
@@ -1115,7 +1115,7 @@
         "order": 31,
         "id": 18,
         "name": "Humanitarian",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59666
       },
       "setIdx": 2,
@@ -1140,7 +1140,7 @@
         "order": 34,
         "id": 19,
         "name": "Hurricane",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59667
       },
       "setIdx": 2,
@@ -1165,7 +1165,7 @@
         "order": 35,
         "id": 20,
         "name": "Laptop",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59668
       },
       "setIdx": 2,
@@ -1190,7 +1190,7 @@
         "order": 38,
         "id": 21,
         "name": "LocalOp",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59669
       },
       "setIdx": 2,
@@ -1218,7 +1218,7 @@
         "order": 39,
         "id": 22,
         "name": "Meals",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59670
       },
       "setIdx": 2,
@@ -1243,7 +1243,7 @@
         "order": 42,
         "id": 23,
         "name": "Medical",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59671
       },
       "setIdx": 2,
@@ -1268,7 +1268,7 @@
         "order": 43,
         "id": 24,
         "name": "NatlOp",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59672
       },
       "setIdx": 2,
@@ -1297,7 +1297,7 @@
         "order": 46,
         "id": 25,
         "name": "Saw",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59673
       },
       "setIdx": 2,
@@ -1323,7 +1323,7 @@
         "order": 47,
         "id": 26,
         "name": "SocialMediaFundraising",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59674
       },
       "setIdx": 2,
@@ -1348,7 +1348,7 @@
         "order": 50,
         "id": 27,
         "name": "Storm",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59675
       },
       "setIdx": 2,
@@ -1378,7 +1378,7 @@
         "order": 27,
         "id": 28,
         "name": "Tools",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59676
       },
       "setIdx": 2,
@@ -1403,7 +1403,7 @@
         "order": 28,
         "id": 29,
         "name": "Tornado",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59677
       },
       "setIdx": 2,
@@ -1428,7 +1428,7 @@
         "order": 26,
         "id": 30,
         "name": "VetWellness",
-        "prevSize": 40,
+        "prevSize": 28,
         "code": 59678
       },
       "setIdx": 2,
@@ -1477,7 +1477,7 @@
     "historySize": 50,
     "showCodes": false,
     "gridSize": 16,
-    "showGrid": false,
+    "showGrid": true,
     "showLiga": false
   }
 }
