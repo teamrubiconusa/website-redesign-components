@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?xep93n');
-  src:  url('fonts/TeamRubicon.eot?xep93n#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?xep93n') format('truetype'),
-    url('fonts/TeamRubicon.woff?xep93n') format('woff'),
-    url('fonts/TeamRubicon.svg?xep93n#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?aiyli4');
+  src:  url('fonts/TeamRubicon.eot?aiyli4#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?aiyli4') format('truetype'),
+    url('fonts/TeamRubicon.woff?aiyli4') format('woff'),
+    url('fonts/TeamRubicon.svg?aiyli4#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,66 +24,62 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-angle-up:before {
-  content: "\f106";
-}
-.icon-angle-down:before {
-  content: "\f107";
+.icon-pie-chart:before {
+  content: "\e99a";
 }
 .icon-play:before {
   content: "\ea1c";
 }
 .icon-google-plus:before {
   content: "\ea8c";
-  color: #4a4a4a;
 }
 .icon-google-plus-old:before {
   content: "\ea8d";
 }
 .icon-facebook:before {
   content: "\ea91";
-  color: #4a4a4a;
 }
 .icon-facebook-old:before {
   content: "\ea93";
 }
 .icon-instagram:before {
   content: "\ea92";
-  color: #4a4a4a;
 }
 .icon-instagram-old:before {
   content: "\ea94";
 }
 .icon-youtube:before {
   content: "\ea9d";
-  color: #4a4a4a;
 }
 .icon-youtube-old:before {
   content: "\ea9e";
 }
 .icon-vimeo:before {
   content: "\eaa1";
-  color: #4a4a4a;
 }
 .icon-vimeo-old:before {
   content: "\eaa2";
 }
 .icon-linkedin:before {
   content: "\eac9";
-  color: #4a4a4a;
 }
 .icon-linkedin-old:before {
   content: "\eaca";
 }
 .icon-twitter:before {
   content: "\e91f";
-  color: #4a4a4a;
 }
 .icon-twitter-old:before {
   content: "\e920";
 }
 .icon-cross:before {
   content: "\ea0f";
+}
+.icon-angle-up:before {
+  content: "\f106";
+}
+.icon-angle-down:before {
+  content: "\f107";
 }
 .icon-Search:before {
   content: "\e900";
