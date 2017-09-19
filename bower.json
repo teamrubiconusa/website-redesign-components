@@ -1,0 +1,21 @@
+{
+  "name": "TR-icon-font",
+  "homepage": "https://github.com/teamrubiconusa/website-redesign-components",
+  "authors": [
+    "Team Rubicon <info@teamrubiconusa.org>"
+  ],
+  "description": "TeamRubicon Icon Font",
+  "main": "_icomoon/TeamRubicon/selection.json",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "links/**/.*",
+    "preview/**/.*"
+  ]
+}
