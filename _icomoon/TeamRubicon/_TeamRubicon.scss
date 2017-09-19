@@ -1,4 +1,7 @@
-@include icomoonInclude('./fonts/TeamRubicon');
+$tr-font-icon-name: 'TeamRubicon' !default;
+$tr-font-icon-directory: '../fonts/' !default;
+
+@include icomoonInclude(#{$fontDir}#{$fontName});
 
 // adds css classes to css based on mappings.
 // usage in markup:
