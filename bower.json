@@ -5,9 +5,12 @@
     "Team Rubicon <info@teamrubiconusa.org>"
   ],
   "description": "TeamRubicon Icon Font",
-  "main": "_icomoon/TeamRubicon/selection.json",
+  "main": "_icomoon/TeamRubicon/_TeamRubicon.scss",
   "license": "MIT",
   "private": true,
+  "dependencies": {
+    "icomoon-sassy": "^1.0.0"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
