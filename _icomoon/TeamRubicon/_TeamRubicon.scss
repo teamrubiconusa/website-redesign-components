@@ -1,0 +1,50 @@
+@include icomoonInclude('./fonts/TeamRubicon');
+
+// adds css classes to css based on mappings.
+// usage in markup:
+// <i class="icon-Search">
+//
+@include icomoonIcons((
+  play: "\ea1c",
+  google-plus: "\ea8c",
+  facebook: "\ea91",
+  instagram: "\ea92",
+  youtube: "\ea9d",
+  vimeo: "\eaa1",
+  linkedin: "\eac9",
+  twitter: "\e91f",
+  Search: "\e900",
+  Accomodations: "\e901",
+  Alert: "\e902",
+  angle-up:"\f106",
+  angle-down:"\f107",
+  Bulldozer: "\e903",
+  Calendar: "\e904",
+  Cash: "\e905",
+  Checkmark: "\e906",
+  Crate: "\e907",
+  Donation: "\e908",
+  Earthquake: "\e909",
+  EstateGiving: "\e90a",
+  FAQ: "\e90b",
+  Fire: "\e90c",
+  FirstAid: "\e90d",
+  Flood: "\e90e",
+  Globe: "\e90f",
+  Gloves: "\e910",
+  HomeSaved: "\e911",
+  Humanitarian: "\e912",
+  Hurricane: "\e913",
+  Laptop: "\e914",
+  LocalOp: "\e915",
+  Meals: "\e916",
+  Medical: "\e917",
+  NatlOp: "\e918",
+  pie-chart: "\e99a",
+  Saw: "\e919",
+  SocialMediaFundraising: "\e91a",
+  Storm: "\e91b",
+  Tools: "\e91c",
+  Tornado: "\e91d",
+  VetWellness: "\e91e"
+));
