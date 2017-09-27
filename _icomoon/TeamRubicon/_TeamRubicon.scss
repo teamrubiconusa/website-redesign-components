@@ -1,4 +1,5 @@
-$tr-font-icon-name: 'TeamRubicon' !default;
+$tr-font-icon-file-name: 'TeamRubicon' !default;
+$tr-font-icon-name: 'icomoon' !default;
 $tr-font-icon-directory: '../fonts/' !default;
 
 $tr-font-icon-mapping: (
@@ -63,7 +64,7 @@ $tr-font-icon-mapping: (
 */
 
 // icomoon-sassy setup:
-@include icomoonInclude(#{$tr-font-icon-directory}#{$tr-font-icon-name});
+@include icomoonInclude(#{$tr-font-icon-directory}#{$tr-font-icon-file-name});
 // adds css classes to css based on mappings.
 // usage in markup:
 // <i class="icon-Search">
