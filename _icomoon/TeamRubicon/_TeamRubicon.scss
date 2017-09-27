@@ -1,13 +1,7 @@
 $tr-font-icon-name: 'TeamRubicon' !default;
 $tr-font-icon-directory: '../fonts/' !default;
 
-@include icomoonInclude(#{$tr-font-icon-directory}#{$tr-font-icon-name});
-
-// adds css classes to css based on mappings.
-// usage in markup:
-// <i class="icon-Search">
-//
-@include icomoonIcons((
+$tr-font-icon-mapping: (
   play: "\ea1c",
   google-plus: "\ea8c",
   facebook: "\ea91",
@@ -51,4 +45,29 @@ $tr-font-icon-directory: '../fonts/' !default;
   Tools: "\e91c",
   Tornado: "\e91d",
   VetWellness: "\e91e"
-));
+);
+
+
+// helper mixin:
+@mixin icon($key) {
+   font-family: $tr-font-icon-name;
+   content: map-get($tr-font-icon-mapping, #{$key});
+ }
+// USAGE:
+/*
+.my-class {
+  :after {
+   @include('pie-chart'); // will render a piechart 
+  }
+}
+*/
+
+// icomoon-sassy setup:
+@include icomoonInclude(#{$tr-font-icon-directory}#{$tr-font-icon-name});
+// adds css classes to css based on mappings.
+// usage in markup:
+// <i class="icon-Search">
+//
+@include icomoonIcons($tr-font-icon-mapping);
+
+
