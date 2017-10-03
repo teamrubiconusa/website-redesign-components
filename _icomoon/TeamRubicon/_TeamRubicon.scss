@@ -46,6 +46,11 @@ $tr-font-icon-mapping: (
   Tools: "\e91c",
   Tornado: "\e91d",
   VetWellness: "\e91e"
+  service-principles_accountability: "\e921",
+  service-principles_collaborate: "\e922",
+  service-principles_impartiality: "\e923",
+  service-principles_innovation: "\e924",
+  service-principles_tenacity: "\e925"
 );
 
 
@@ -58,7 +63,7 @@ $tr-font-icon-mapping: (
 /*
 .my-class {
   :after {
-   @include('pie-chart'); // will render a piechart 
+   @include('pie-chart'); // will render a piechart
   }
 }
 */
@@ -70,5 +75,3 @@ $tr-font-icon-mapping: (
 // <i class="icon-Search">
 //
 @include icomoonIcons($tr-font-icon-mapping);
-
-

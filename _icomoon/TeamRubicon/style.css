@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?eftd1f');
-  src:  url('fonts/TeamRubicon.eot?eftd1f#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?eftd1f') format('truetype'),
-    url('fonts/TeamRubicon.woff?eftd1f') format('woff'),
-    url('fonts/TeamRubicon.svg?eftd1f#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?fv3x4n');
+  src:  url('fonts/TeamRubicon.eot?fv3x4n#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?fv3x4n') format('truetype'),
+    url('fonts/TeamRubicon.woff?fv3x4n') format('woff'),
+    url('fonts/TeamRubicon.svg?fv3x4n#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -80,6 +80,21 @@
 }
 .icon-angle-down:before {
   content: "\f107";
+}
+.icon-service-principles_accountability:before {
+  content: "\e921";
+}
+.icon-service-principles_collaborate:before {
+  content: "\e922";
+}
+.icon-service-principles_impartiality:before {
+  content: "\e923";
+}
+.icon-service-principles_innovation:before {
+  content: "\e924";
+}
+.icon-service-principles_tenacity:before {
+  content: "\e925";
 }
 .icon-Search:before {
   content: "\e900";
