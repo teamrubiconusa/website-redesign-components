@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?e1ne1q');
-  src:  url('fonts/TeamRubicon.eot?e1ne1q#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?e1ne1q') format('truetype'),
-    url('fonts/TeamRubicon.woff?e1ne1q') format('woff'),
-    url('fonts/TeamRubicon.svg?e1ne1q#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?fv3x4n');
+  src:  url('fonts/TeamRubicon.eot?fv3x4n#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?fv3x4n') format('truetype'),
+    url('fonts/TeamRubicon.woff?fv3x4n') format('woff'),
+    url('fonts/TeamRubicon.svg?fv3x4n#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -81,36 +81,20 @@
 .icon-angle-down:before {
   content: "\f107";
 }
-.icon-ServicePrinciples_Accountability .path1:before {
+.icon-service-principles_accountability:before {
   content: "\e921";
-  color: rgb(29, 29, 27);
 }
-.icon-ServicePrinciples_Accountability .path2:before {
+.icon-service-principles_collaborate:before {
   content: "\e922";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
 }
-.icon-ServicePrinciples_Accountability .path3:before {
+.icon-service-principles_impartiality:before {
   content: "\e923";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
-.icon-ServicePrinciples_Accountability .path4:before {
+.icon-service-principles_innovation:before {
   content: "\e924";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
-.icon-ServicePrinciples_Collaborate:before {
+.icon-service-principles_tenacity:before {
   content: "\e925";
-}
-.icon-ServicePrinciples_Impartiality:before {
-  content: "\e926";
-}
-.icon-ServicePrinciples_Innovation:before {
-  content: "\e927";
-}
-.icon-ServicePrinciples_Tenacity:before {
-  content: "\e928";
 }
 .icon-Search:before {
   content: "\e900";
