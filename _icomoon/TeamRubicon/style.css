@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?r40zmg');
-  src:  url('fonts/TeamRubicon.eot?r40zmg#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?r40zmg') format('truetype'),
-    url('fonts/TeamRubicon.woff?r40zmg') format('woff'),
-    url('fonts/TeamRubicon.svg?r40zmg#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?iz4604');
+  src:  url('fonts/TeamRubicon.eot?iz4604#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?iz4604') format('truetype'),
+    url('fonts/TeamRubicon.woff?iz4604') format('woff'),
+    url('fonts/TeamRubicon.svg?iz4604#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Saw:before {
+  content: "\e919";
+}
+.icon-filter-sliders:before {
+  content: "\e926";
+}
+.icon-filter-grid:before {
+  content: "\e927";
+}
 .icon-pie-chart:before {
   content: "\e99a";
 }
@@ -185,7 +194,4 @@
 }
 .icon-Checkmark:before {
   content: "\e906";
-}
-.icon-Saw:before {
-  content: "\e919";
 }
