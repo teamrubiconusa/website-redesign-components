@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?iz4604');
-  src:  url('fonts/TeamRubicon.eot?iz4604#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?iz4604') format('truetype'),
-    url('fonts/TeamRubicon.woff?iz4604') format('woff'),
-    url('fonts/TeamRubicon.svg?iz4604#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?70gw43');
+  src:  url('fonts/TeamRubicon.eot?70gw43#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?70gw43') format('truetype'),
+    url('fonts/TeamRubicon.woff?70gw43') format('woff'),
+    url('fonts/TeamRubicon.svg?70gw43#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,147 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-General_Birthday-Cake:before {
+  content: "\e92d";
+}
+.icon-General_House:before {
+  content: "\e92c";
+}
+.icon-CHFP_Capstone:before {
+  content: "\e928";
+}
+.icon-CHFP_Mentorship:before {
+  content: "\e929";
+}
+.icon-CHFP_Self-Discovery:before {
+  content: "\e92a";
+}
+.icon-Department_Comms:before {
+  content: "\e92b";
+}
+.icon-Department_Finance:before {
+  content: "\e92e";
+}
+.icon-Department_Logistics:before {
+  content: "\e92f";
+}
+.icon-Department_Membership:before {
+  content: "\e930";
+}
+.icon-Department_Planning:before {
+  content: "\e932";
+}
+.icon-Department_Tech:before {
+  content: "\e933";
+}
+.icon-Department_Training:before {
+  content: "\e934";
+}
+.icon-General_Airplane-Drop:before {
+  content: "\e936";
+}
+.icon-General_Airplane:before {
+  content: "\e937";
+}
+.icon-General_Debris-Removal:before {
+  content: "\e93e";
+}
+.icon-General_Delivery-Truck:before {
+  content: "\e93f";
+}
+.icon-General_Disaster-Mapping:before {
+  content: "\e940";
+}
+.icon-General_Drone-Fixed-Wing:before {
+  content: "\e942";
+}
+.icon-General_Drone:before {
+  content: "\e943";
+}
+.icon-General_Expedient-Home-Repair:before {
+  content: "\e944";
+}
+.icon-General_Fitness-Events:before {
+  content: "\e945";
+}
+.icon-General_Flowers:before {
+  content: "\e946";
+}
+.icon-General_Fob-Tent:before {
+  content: "\e947";
+}
+.icon-General_Food-Aid:before {
+  content: "\e948";
+}
+.icon-General_Hours-Time:before {
+  content: "\e949";
+}
+.icon-General_Laptop:before {
+  content: "\e94c";
+}
+.icon-General_Members:before {
+  content: "\e950";
+}
+.icon-General_Money-Saved:before {
+  content: "\e952";
+}
+.icon-General_Mouse-Cursor:before {
+  content: "\e953";
+}
+.icon-General_Person:before {
+  content: "\e954";
+}
+.icon-General_PPE-HazardMit:before {
+  content: "\e955";
+}
+.icon-General_Satellite:before {
+  content: "\e956";
+}
+.icon-General_Social-Events-BBQ:before {
+  content: "\e957";
+}
+.icon-General_Social-Events-Beer:before {
+  content: "\e958";
+}
+.icon-General_Speaking-Engagements:before {
+  content: "\e959";
+}
+.icon-General_Volunteers:before {
+  content: "\e95a";
+}
+.icon-General_Wedding-Rings:before {
+  content: "\e95b";
+}
+.icon-General_WIFI:before {
+  content: "\e95c";
+}
+.icon-General_Work-Boot:before {
+  content: "\e95d";
+}
+.icon-tough-mudder_logo_no-flame:before {
+  content: "\e965";
+}
+.icon-Training_ASIST:before {
+  content: "\e966";
+}
+.icon-Training_Damage-Assessments:before {
+  content: "\e967";
+}
+.icon-Training_Disaster-Tech:before {
+  content: "\e968";
+}
+.icon-Training_Incident-Management:before {
+  content: "\e96a";
+}
+.icon-Training_Instructor:before {
+  content: "\e96b";
+}
+.icon-Training_Operational-Site-Safety:before {
+  content: "\e96c";
+}
+.icon-Training_Sawyer:before {
+  content: "\e96d";
+}
 .icon-Saw:before {
   content: "\e919";
 }
