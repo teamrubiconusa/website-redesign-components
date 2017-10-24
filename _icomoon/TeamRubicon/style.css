@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TeamRubicon';
-  src:  url('fonts/TeamRubicon.eot?70gw43');
-  src:  url('fonts/TeamRubicon.eot?70gw43#iefix') format('embedded-opentype'),
-    url('fonts/TeamRubicon.ttf?70gw43') format('truetype'),
-    url('fonts/TeamRubicon.woff?70gw43') format('woff'),
-    url('fonts/TeamRubicon.svg?70gw43#TeamRubicon') format('svg');
+  src:  url('fonts/TeamRubicon.eot?z15nw0');
+  src:  url('fonts/TeamRubicon.eot?z15nw0#iefix') format('embedded-opentype'),
+    url('fonts/TeamRubicon.ttf?z15nw0') format('truetype'),
+    url('fonts/TeamRubicon.woff?z15nw0') format('woff'),
+    url('fonts/TeamRubicon.svg?z15nw0#TeamRubicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,12 @@
 
 .icon-General_Birthday-Cake:before {
   content: "\e92d";
+}
+.icon-General_MapPin:before {
+  content: "\e931";
+}
+.icon-General_Money-Saved:before {
+  content: "\e935";
 }
 .icon-General_House:before {
   content: "\e92c";
@@ -101,9 +107,6 @@
 }
 .icon-General_Laptop:before {
   content: "\e94c";
-}
-.icon-General_Money-Saved:before {
-  content: "\e952";
 }
 .icon-General_Mouse-Cursor:before {
   content: "\e953";
